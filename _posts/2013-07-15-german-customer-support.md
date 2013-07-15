@@ -7,4 +7,6 @@ The ideal candidate has great communication skills in German and English and is 
 
 The position will require approximately 25 hours on weekdays at €275 per week.
 
+We will further expand into the German online book market this fall and may then be interested in making this position full-time.
+
 Please submit a cover letter and resume highlighting your customer service experience and demonstrating the required language proficiency!
