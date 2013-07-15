@@ -45,6 +45,10 @@ body {
   margin: 1em 0;
 }
 
+.post li {
+  margin-left: 16px;
+}
+
 a.icon-stack {
   color: #987baa;
   font-size: 18px;
