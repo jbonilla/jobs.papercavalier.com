@@ -7,4 +7,4 @@ The ideal candidate has great communication skills in German and English and is 
 
 The position will require approximately 25 hours on weekdays at €275 per week.
 
-Please submit a cover letter and resume highlighting your customer service experience and language proficiency.
+Please submit a cover letter and resume highlighting your customer service experience and language proficiency!
