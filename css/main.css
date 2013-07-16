@@ -23,9 +23,9 @@ body {
   padding-bottom: 2em;
 }
 
-.logo {
-  height: 75px;
-  width: 75px;
+.icon-logo {
+  font-size: 6em;
+  text-decoration: none;
 }
 
 .posts {
