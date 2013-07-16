@@ -14,6 +14,7 @@ body {
 .container {
   max-width: 480px;
   margin: 4em auto;
+  padding: 0 1em;
 }
 
 .site-header, .site-footer {
@@ -21,7 +22,7 @@ body {
 }
 
 .site-header {
-  padding-bottom: 2em;
+  margin-bottom: 2em;
 }
 
 .icon-logo {
@@ -56,8 +57,8 @@ a.button:hover {
   margin: 1em 0;
 }
 
-.post li {
-  margin-left: 16px;
+.site-footer {
+  margin-top: 2em;
 }
 
 a.icon-stack {
@@ -77,4 +78,10 @@ a.icon-stack:hover .icon-circle {
 a.icon-stack .icon-envelope {
   margin-top: -1px;
   font-size: 19px;
+}
+
+@media only screen and (max-device-width : 568px) {
+  .container {
+    margin: 0 auto;
+  }
 }
