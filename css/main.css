@@ -1,6 +1,7 @@
 *       { margin: 0; padding: 0; }
 a       { color: #c8c8c8; }
 a:hover { color: #fff; }
+h1      { font-size: 100%; }
 
 body {
   background-color: #464646;
@@ -28,15 +29,7 @@ body {
   text-decoration: none;
 }
 
-.posts {
-  list-style-type: none;
-}
-
-.posts li {
-  margin-bottom: 1em;
-}
-
-.posts li a {
+.button {
   display: block;
   padding: 8px 15px 7px;
   background-color: #c8c8c8;
@@ -46,14 +39,19 @@ body {
   text-decoration: none;
 }
 
-.posts li a:hover {
+a.button:hover {
   background-color: #fff;
+  color: #464646;
 }
 
-.post .title {
-  font-size: 19px;
+.posts {
+  list-style-type: none;
+}
+
+.posts li {
   margin-bottom: 1em;
 }
+
 .post p {
   margin: 1em 0;
 }
