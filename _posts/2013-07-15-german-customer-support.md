@@ -7,5 +7,6 @@ The ideal candidate has great communication skills in German and English and is 
 
 The position will require approximately 25 hours on weekdays at €275 per week. We will further expand into the German online book market this fall and may then be interested in making this position full-time.
 
+Please submit a cover letter and resume highlighting your customer service experience and a sample reponse to the following customer inquiry:
 
-Please submit a cover letter and resume highlighting your customer service experience and demonstrating the required language proficiency!
+> Sowohl "Sorcerer's Crusade" als auch "The Order of Reason" hatte ich Freitag, bzw. Samstag im Briefkasten. Allerdings fehlt von dem dritten Buch "Infernalism: The Path of Screams" jede Spur. Ich wollte mich deshalb erkundigen, ob die Bücher vielleicht zeitlichversetzt versendet wurden und das Buch vielleicht noch auf dem Weg ist oder es eventuell Probleme mit dem Versand bei der Post gab und sie vielleicht mehr darüber wissen. Es wäre auf jeden Fall ärgerlich, wenn das Buch nach New York zurückgesandt werden würde.
