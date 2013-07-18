@@ -57,6 +57,12 @@ a.button:hover {
   margin: 1em 0;
 }
 
+.post blockquote {
+  color: #999;
+  border-left: 3px solid #c8c8c8;
+  padding-left: 1em;
+}
+
 .site-footer {
   margin-top: 2em;
 }
