@@ -1,11 +1,12 @@
 *       { margin: 0; padding: 0; }
 a       { color: #c8c8c8; }
 a:hover { color: #fff; }
+h1      { font-size: 100%; }
 
 body {
   background-color: #464646;
   color: #c8c8c8;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-size: 14px;
   line-height: 1.5em;
 }
@@ -13,6 +14,7 @@ body {
 .container {
   max-width: 480px;
   margin: 4em auto;
+  padding: 0 1em;
 }
 
 .site-header, .site-footer {
@@ -20,12 +22,27 @@ body {
 }
 
 .site-header {
-  padding-bottom: 2em;
+  margin-bottom: 2em;
 }
 
-.logo {
-  height: 75px;
-  width: 75px;
+.icon-logo {
+  font-size: 6em;
+  text-decoration: none;
+}
+
+.button {
+  display: block;
+  padding: 8px 15px 7px;
+  background-color: #c8c8c8;
+  color: #464646;
+  border-radius: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.button:hover {
+  background-color: #fff;
+  color: #464646;
 }
 
 .posts {
@@ -36,30 +53,12 @@ body {
   margin-bottom: 1em;
 }
 
-.posts li a {
-  display: block;
-  padding: 8px 15px 7px;
-  background-color: #c8c8c8;
-  color: #464646;
-  border-radius: 2px;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.posts li a:hover {
-  background-color: #fff;
-}
-
-.post .title {
-  font-size: 19px;
-  margin-bottom: 1em;
-}
 .post p {
   margin: 1em 0;
 }
 
-.post li {
-  margin-left: 16px;
+.site-footer {
+  margin-top: 2em;
 }
 
 a.icon-stack {
@@ -79,4 +78,10 @@ a.icon-stack:hover .icon-circle {
 a.icon-stack .icon-envelope {
   margin-top: -1px;
   font-size: 19px;
+}
+
+@media only screen and (max-device-width : 568px) {
+  .container {
+    margin: 0 auto;
+  }
 }
