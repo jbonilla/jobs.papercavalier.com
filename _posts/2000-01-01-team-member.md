@@ -1,5 +1,6 @@
 ---
 title: Team Member
+layout: post
 published: false
 ---
 We are looking for a team member fluent in everything and beyond. You will be responsible for making our various businesses awesome. The ideal candidate has great skills. You will work here and there.

@@ -1,5 +1,6 @@
 ---
 title: German Customer Support
+layout: post
 ---
 We are looking for a part-time customer support team member fluent in English and German. You will be responsible for answering customer inquiries and addressing customer feedback in a timely and professional manner.
 
